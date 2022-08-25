@@ -25,7 +25,7 @@
 ![Project 004 Snapshot](./project04.png)
 
 ## Objective
-<br><br>
+
 🎯 Your challenge is to build out this page and get it looking as close to the design as possible..
 [Project 004 Snapshot](./project04.png) 
 
