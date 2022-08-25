@@ -4,7 +4,7 @@
 
 👨‍💻 The main aim of this project is to improve my <b>HTML/CSS skills and ©️cloning abilities</b>.
 
-🔗 To see live version 🎯
+🔗 To see live version 🎯https://tal58.github.io/Team_Members_Page/
 <br>
 
 ## Project Skeleton 
