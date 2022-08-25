@@ -4,8 +4,6 @@
 
 👨‍💻 The main aim of this project is to improve my <b>HTML/CSS skills and ©️cloning abilities</b>.
 
-
-<br><br>
 🔗 To see live version 🎯
 <br>
 
